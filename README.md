@@ -50,5 +50,5 @@ Feel free to connect with me:
 
 - **Email:** [smhhaaris2020@gmail.com]
 - **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/mohammedhaaris12)  <!-- Replace with your actual LinkedIn URL -->
-- **Portfolio:** [YourPortfolioWebsite.com](https://mohammed-haaris.github.io/)  <!-- Replace with your actual portfolio URL -->
+- **Portfolio:** [Mohammed Haaris Portfolio](https://mohammed-haaris.github.io/)  <!-- Replace with your actual portfolio URL -->
 
